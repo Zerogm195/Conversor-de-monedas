@@ -14,46 +14,17 @@ Maneja excepciones para errores de entrada y errores al conectar con la API.
 Instalación
 
 Clona el repositorio:
-
-
-                 
-                    
-                        bash
-                        
-                            Copiar código
-                        
-                    
                     
                         git clone https://github.com/tu-usuario/conversor-de-monedas.git
                     
-                
-        
 Compila el código:
 
-
-                 
-                    
-                        bash
-                        
-                            Copiar código
-                        
-                    
-                    
                         javac com/alura/conversor/principal/*.java
                     
                 
         
 Ejecuta el programa:
 
-
-                 
-                    
-                        undefined
-                        
-                            Copiar código
-                        
-                    
-                    
                         java com.alura.conversor.principal.Principal
                     
                 
