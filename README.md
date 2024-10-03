@@ -4,9 +4,13 @@ Conversor de Monedas
 Funcionalidades:
 
   Permite convertir entre las siguientes monedas:
-    -Dólares (USD)\n
+  
+    -Dólares (USD)
+    
     -Pesos Colombianos (COP)
+    
     -Bolivares (VES)
+    
     -Euros (EUR)
 
 
@@ -29,10 +33,13 @@ Ejecuta el programa:
                         
 Uso:
 
-  -Ejecuta el programa.
-  -Selecciona la opción de conversión que deseas realizar.
-  -Ingresa el valor que deseas convertir.
-  -El programa mostrará el resultado de la conversión.
+    -Ejecuta el programa.
+    
+    -Selecciona la opción de conversión que deseas realizar.
+    
+    -Ingresa el valor que deseas convertir.
+    
+    -El programa mostrará el resultado de la conversión.
 
 Notas:
 
