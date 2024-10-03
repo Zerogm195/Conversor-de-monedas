@@ -49,7 +49,10 @@ Ejecuta el programa:
 
 <h2>Contribuciones:</h2>
   
-  Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia, por favor abre un issue o envía un pull request.Licencia
+  Las contribuciones son bienvenidas. Si encuentras algún error o tienes alguna sugerencia, por favor abre un issue o envía un pull request.
+  
+<h2>Licencia:</h2>
+  
   Este proyecto está licenciado bajo la licencia MIT. 
 
 <h2>Autor:</h2>
