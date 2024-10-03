@@ -4,7 +4,7 @@ Conversor de Monedas
 Funcionalidades:
 
   Permite convertir entre las siguientes monedas:
-    -Dólares (USD)
+    -Dólares (USD)\n
     -Pesos Colombianos (COP)
     -Bolivares (VES)
     -Euros (EUR)
